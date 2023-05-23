@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/esp-who/examples/cat_face_detection/lcd/build/CMakeFiles/bootloader
+E:/esp-who/examples/cat_face_detection/lcd/build/CMakeFiles/bootloader.rule
+E:/esp-who/examples/cat_face_detection/lcd/build/CMakeFiles/bootloader-complete.rule
+E:/esp-who/examples/cat_face_detection/lcd/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/esp-who/examples/cat_face_detection/lcd/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/esp-who/examples/cat_face_detection/lcd/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/esp-who/examples/cat_face_detection/lcd/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/esp-who/examples/cat_face_detection/lcd/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/esp-who/examples/cat_face_detection/lcd/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/esp-who/examples/cat_face_detection/lcd/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
